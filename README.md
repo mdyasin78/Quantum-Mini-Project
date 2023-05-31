@@ -16,4 +16,7 @@ return a QuantumCircuit that inverts the phase of the state |01101> and leaves a
 other states unchanged.
 
 output image:
+
+
+
 ![output file](https://github.com/mdyasin78/Quantum-Mini-Project/assets/93597093/a791ddd7-2aec-4d41-bad2-e2816bafa2eb)
